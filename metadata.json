@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Device File Transfer",
+  "description": "Chand's File Dropper - Zero-leak cross-device file transfer between phone and projector with 6-digit passcode Saved Vault, Discord archive for saved files, and automatic 24-hour transient file deletion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
